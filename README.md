@@ -29,4 +29,12 @@ calculator/
 ## 🖥️ Local Setup
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/yourusername/calculator.git
+   git clone https://github.com/SameerSingh017/CodSoft_3_calculator.git
+   cd calculator
+Or 
+
+open index.html directly in your browser.
+
+
+## 👨‍💻 Author: Sameer Singh
+## 📧 Contact: sameer0555singh@gmail.com   
